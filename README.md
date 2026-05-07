@@ -1,8 +1,8 @@
-# Nate Valline Portfolio V5
+# Nate Valline Portfolio V6
 
 <img src="./git_img/portfolio-screenshot.png" alt="Portfolio Screenshot" height="500px">
 
-> This portfolio is my fifth version. For this version I have incorporated some of the latest technologies that I have learned.
+> This portfolio is my sixth version. For this version I have incorporated some of the latest technologies that I have learned.
 
 #### [View The Site](https://natevalline.dev) - The project is live.
 
