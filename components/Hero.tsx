@@ -48,11 +48,14 @@ export default function Hero() {
 					clean, performant, and obsessively considered from first interaction
 					to last pixel.
 				</p>
-				<div className='hero-cta mt-13 flex gap-7 items-center'>
-					<a href='#work' className='btn-primary'>
+				<div className='hero-cta mt-13 flex flex-col md:flex-row gap-5 md:gap-7 md:items-center w-2/3 md:w-auto'>
+					<a href='#work' className='btn-primary text-center'>
 						View Work
 					</a>
-					<a href='#contact' className='btn-ghost'>
+					<a
+						href='#contact'
+						className='btn-ghost pl-2 justify-center md:pl-0 md:justify-start'
+					>
 						Get in touch
 					</a>
 				</div>
