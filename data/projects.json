@@ -1,0 +1,49 @@
+[
+	{
+		"id": "01",
+		"title": "Powder Peak Home Inspections",
+		"description": "A full-stack marketing site for a home inspection company, featuring a dynamic fee estimate calculator with admin-adjustable settings persisted in Appwrite. Integrated Next Auth for secure admin authentication, a Brevo-connected contact form, and Calendly for seamless appointment scheduling.",
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Appwrite",
+			"TailwindCSS",
+			"Next Auth",
+			"Figma"
+		],
+		"link": "https://powder-peak-home-inspections.vercel.app/",
+		"linkText": "Live site"
+	},
+	{
+		"id": "02",
+		"title": "Elevated Barre Studio",
+		"description": "A mobile-first marketing site for a barre fitness studio, custom designed with a focus on responsive aesthetics and seamless user experience across devices. Integrates third-party backend widgets for class scheduling, lead generation, and subscription management to deliver a full-featured business presence without a custom backend.",
+		"tags": ["Next.js", "JavaScript", "SASS", "Figma"],
+		"link": "https://www.elevatedbarrestudio.com/",
+		"linkText": "Live site"
+	},
+	{
+		"id": "03",
+		"title": "Horizon Banking App",
+		"description": "A full-stack banking dashboard built featuring secure authentication, Plaid-powered bank account aggregation, and Dwolla-enabled electronic transfers. Developed as a guided project to practice integrating third-party financial APIs with a polished UI built for transaction visualization.",
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"TailwindCSS",
+			"Plaid",
+			"Dwolla",
+			"Appwrite",
+			"Shadcn"
+		],
+		"link": "https://horizon-banking-app-six.vercel.app/",
+		"linkText": "Live site"
+	},
+	{
+		"id": "04",
+		"title": "High Mountain Home Professionals",
+		"description": "A clean brochure site for a home services business built for showcasing service offerings and customer testimonials. Features a contact form to drive lead generation and a responsive layout styled with custom SASS for a polished, professional look.",
+		"tags": ["Next.js", "JavaScript", "SASS", "email.js", "Figma"],
+		"link": "https://www.highmnthp.com/",
+		"linkText": "Live site"
+	}
+]

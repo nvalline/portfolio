@@ -4,7 +4,7 @@
 
 > This portfolio is my fifth version. For this version I have incorporated some of the latest technologies that I have learned.
 
-#### [View The Site](https://natevalline.com) - The project is live.
+#### [View The Site](https://natevalline.dev) - The project is live.
 
 ---
 
@@ -25,7 +25,7 @@
 
 This application was built to showcase my most up-to-date coding knowledge, professional information and projects that I have created.
 
-This Next.js application is fully responsive and utilizes some new tech (like Sanity) that I have learned on top of the information that I have learned in the coding bootcamp.
+This Next.js application is fully responsive and built with a modern stack including TypeScript, Tailwind CSS v4, and the Next.js App Router.
 
 [Back To The Top](#project-name)
 
@@ -33,14 +33,12 @@ This Next.js application is fully responsive and utilizes some new tech (like Sa
 
 ## Technologies
 
-- Next.js
-- React.js
-- Javascript
+- Next.js 16 (App Router)
+- React 19
+- TypeScript
+- Tailwind CSS v4
 - Node.js
 - HTML
-- SCSS
-- EmailJS
-- Sanity.io
 
 [Back To The Top](#project-name)
 
@@ -50,7 +48,7 @@ This Next.js application is fully responsive and utilizes some new tech (like Sa
 
 Simply click the following link to load the application in your browser.
 
-#### [View The Site](https://natevalline.com/) - The project is live.
+#### [View The Site](https://natevalline.dev/) - The project is live.
 
 [Back To The Top](#project-name)
 
@@ -84,7 +82,7 @@ There are no tests.
 
 Please contact the following for any questions.
 
-<img src="https://avatars3.githubusercontent.com/u/58278138?v=4" alt="User Image" width="35px"> => contact@natevalline.com
+<img src="https://avatars3.githubusercontent.com/u/58278138?v=4" alt="User Image" width="35px"> => nate@natevalline.dev
 
 [Back To The Top](#project-name)
 
@@ -92,7 +90,7 @@ Please contact the following for any questions.
 
 ## License
 
-Copyright (c) 2021 Nate Valline
+Copyright (c) 2026 Nate Valline
 
 [Back To The Top](#project-name)
 
