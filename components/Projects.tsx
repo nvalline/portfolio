@@ -27,9 +27,11 @@ export default function Projects() {
 								</span>
 							))}
 						</div>
-						<a href={project.link} target='_blank' className='project-link'>
-							{project.linkText}
-						</a>
+						{project.link && (
+							<a href={project.link} target='_blank' className='project-link'>
+								{project.linkText}
+							</a>
+						)}
 					</div>
 				))}
 			</div>
