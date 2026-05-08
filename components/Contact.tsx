@@ -1,6 +1,6 @@
 const socials = [
-	{ label: 'GitHub', href: '#' },
-	{ label: 'LinkedIn', href: '#' }
+	{ label: 'GitHub', href: 'https://github.com/nvalline' },
+	{ label: 'LinkedIn', href: 'https://www.linkedin.com/in/nvalline' }
 ];
 
 const email = 'nate@natevalline.dev';
@@ -19,13 +19,18 @@ export default function Contact() {
 				<span className='text-nv-cream'>BUILD IT.</span>
 			</h2>
 
-			<a href={email} className='contact-email'>
+			<a href={`mailto:${email}`} className='contact-email'>
 				{email}
 			</a>
 
 			<div className='flex justify-center gap-12 mt-16'>
 				{socials.map((s) => (
-					<a key={s.label} href={s.href} className='social-link'>
+					<a
+						key={s.label}
+						href={s.href}
+						target='_blank'
+						className='social-link'
+					>
 						{s.label}
 					</a>
 				))}
